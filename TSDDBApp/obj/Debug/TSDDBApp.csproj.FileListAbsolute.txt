@@ -1,0 +1,16 @@
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.csprojResolveAssemblyReference.cache
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.Form1.resources
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.Properties.Resources.resources
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.csproj.GenerateResource.Cache
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.csproj.CoreCompileInputs.cache
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\bin\Debug\TSDDBApp.exe.config
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\bin\Debug\TSDDBApp.exe
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\bin\Debug\TSDDBApp.pdb
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\bin\Debug\MySql.Data.dll
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\bin\Debug\MySql.Data.xml
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.exe
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.pdb
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.AddStudent.resources
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.EditStudent.resources
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.FormLogin.resources
+C:\Users\saqar\source\repos\TSDDBApp\TSDDBApp\obj\Debug\TSDDBApp.SearchStudent.resources
